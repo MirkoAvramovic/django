@@ -25,5 +25,5 @@ Click the "Pretrazi" button to fetch and display the weather forecast for the sp
 It's configured to show data on Serbian language, but you can easily change it in views.py (lang=sr)
 
 ## Acknowledgments
-Weather data is provided by OpenWeatherMap.
+Weather data is provided by [OpenWeatherMap](https://openweathermap.org/).
 
